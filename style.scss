@@ -174,7 +174,7 @@ body {
     font-weight: 700;
     letter-spacing: -5px;
     line-height: 1;
-    margin-bottom: 6px;
+    margin-bottom: 12px;
     background-color:$body-bg;
     color: $blog-bg;
   
@@ -202,8 +202,8 @@ body {
   padding: 0 20px;
 
   img {
-   width: 40%;
-   margin-left: auto;
+   width: 60%;
+   margin-right: auto;
    object-fit: cover;
   }
  }
