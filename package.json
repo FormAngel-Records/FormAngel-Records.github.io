@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "sass": "^1.45.0",
+    "sass-globbing": "^1.0.0",
+    "scss": "^0.2.4"
+  }
+}
