@@ -192,7 +192,7 @@ body {
   padding: 0 20px;
 }
 .blog-article img {
-  width: 60%;
+  width: 40%;
   margin-right: auto;
   object-fit: cover;
 }
